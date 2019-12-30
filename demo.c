@@ -2,6 +2,7 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("2019.12.30\n");
+	int a= 0;
+	printf("2019.12.30,%d\n",a);
 	return 0;
 }
